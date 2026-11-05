@@ -12,7 +12,6 @@ zero-config interface.
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-pre--alpha-orange.svg)](#project-status)
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS-lightgrey.svg)](#roadmap)
-[![Support this project](https://img.shields.io/badge/%E2%9D%A4-Support%20this%20project-e25555.svg)](https://gomworks.github.io/donate)
 [![Releases](https://img.shields.io/badge/releases-none%20yet-lightgrey.svg)](#releases)
 
 [Features](#features) •
@@ -108,11 +107,6 @@ core to test against, etc.) and how to run the current prototype.
 — there is nothing installable to download yet. Watch or star the repo to get notified
 the moment the first build goes up on the
 [Releases page](https://github.com/rewind-emulator/Rewind/releases).
-
-## Support this project
-
-Rewind is free, open-source, and built in spare time. If it's useful to you, consider
-[supporting its development](https://gomworks.github.io/donate) ❤️
 
 ## License
 
