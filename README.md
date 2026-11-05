@@ -89,7 +89,7 @@ libretro ecosystem.
 > prototype and will change as the project matures.
 
 ```bash
-git clone --recursive https://github.com/GOMWorks/Rewind.git
+git clone --recursive https://github.com/rewind-emulator/Rewind.git
 cd Rewind
 ```
 
@@ -107,7 +107,7 @@ core to test against, etc.) and how to run the current prototype.
 🚧 **No release yet.** Rewind is still pre-alpha (see [Project status](#project-status))
 — there is nothing installable to download yet. Watch or star the repo to get notified
 the moment the first build goes up on the
-[Releases page](https://github.com/GOMWorks/Rewind/releases).
+[Releases page](https://github.com/rewind-emulator/Rewind/releases).
 
 ## Support this project
 
